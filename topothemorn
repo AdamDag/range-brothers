@@ -1,0 +1,25 @@
+#include<stdio.h>
+int main(){
+   char symbol;
+   
+ 
+while(1){
+     
+scanf("%c", &symbol);
+      if(symbol == '\n'){
+         break;
+      }
+   
+      
+printf("Hold on \n");
+for(int i=0; i<3; i++){
+   printf("Let's get this shit \n");
+}
+printf("Let's hmmmm \n");
+for(int j=0; j<7; j++){
+   printf("Top of the morning \n");
+}
+
+
+}
+}
